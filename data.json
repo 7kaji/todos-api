@@ -1,0 +1,8 @@
+{
+  "todos":
+    [
+      { "id": 1, "text": "作り置き", "complete": false },
+      { "id": 2, "text": "洗濯", "complete": false },
+      { "id": 3, "text": "なにか", "complete": true }
+    ]
+}
